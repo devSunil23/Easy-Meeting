@@ -1,0 +1,8 @@
+.dialogBoxCard {
+  width: 300px;
+}
+.sendMessageContainer {
+  position: absolute;
+  width: 95%;
+  bottom: 0;
+}

@@ -1,0 +1,18 @@
+.userIonWithNameConatiner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.userIonWithNameConatinerResponsive {
+  width: calc(100% - 380px);
+}
+.screenRecordVideo {
+  width: 100vw;
+  height: 80vh;
+}
+.screenRecordVideoResponsive {
+  width: calc(100vw - 450px);
+  height: 80vh;
+}

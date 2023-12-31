@@ -1,0 +1,34 @@
+.videoAndPresentingSectionDiv {
+  height: 81vh;
+  position: relative;
+}
+.startMeetingFooterSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.dividerIcon {
+  margin: 0 10px !important;
+}
+.callEndButton {
+  background-color: #ea4335 !important;
+  color: #ffff;
+  margin: 5px !important;
+  padding: 5px !important;
+  height: 45px !important;
+  width: 45px !important;
+}
+.callToActionButtonStyle {
+  background-color: #3c4043 !important;
+  color: #ffff;
+  margin: 5px !important;
+  padding: 5px !important;
+  height: 45px !important;
+  width: 45px !important;
+  text-align: center !important;
+}
+.joinVideoContainer {
+  position: relative;
+}

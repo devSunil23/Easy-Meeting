@@ -1,0 +1,27 @@
+.joinCotainer {
+  display: flex;
+  /* height: 60vh; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.offcameraContainer {
+  width: 100%;
+  height: 420px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  border-radius: "8px";
+}
+@media screen and (max-width: 1202px) {
+  .otherOptionMicrophone {
+    visibility: hidden;
+  }
+}
+@media screen and (max-width: 767px) {
+  .offcameraContainer {
+    width: 100%;
+    height: 320px;
+  }
+}
